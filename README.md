@@ -1,4 +1,6 @@
 # music-app
+This project allows you to play pause and next the audio sounds as the playlist is created for you!
+
 
 ## Project setup
 ```
