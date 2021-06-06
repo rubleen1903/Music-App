@@ -1,5 +1,15 @@
 # music-app
 
+This project allows you to play pause and next the audio sounds as the playlist is created for you!
+
+![image](https://user-images.githubusercontent.com/47170879/120924225-26c7a180-c6f0-11eb-8f17-4b96011804b4.png)
+
+
+![image](https://user-images.githubusercontent.com/47170879/120924233-334bfa00-c6f0-11eb-9608-ceaa4ae153b1.png)
+
+
+
+
 ## Project setup
 ```
 npm install
